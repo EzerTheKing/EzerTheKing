@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="200" src="https://gifcop.com/wp-content/uploads/blue-archive-peace-out.gif"  />
 
 ###
@@ -21,6 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
+
+<p align="left">---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
