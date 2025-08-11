@@ -1,3 +1,7 @@
+<img align="right" height="200" src="https://gifcop.com/wp-content/uploads/blue-archive-peace-out.gif"  />
+
+###
+
 <h1 align="left">Hello World Bro!!</h1>
 
 ###
@@ -26,17 +30,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=EzerTheKing&theme=dracula&column=-1&row=1&margin-w=28&margin-h=9&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EzerTheKing&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://gifcop.com/wp-content/uploads/blue-archive-peace-out.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EzerTheKing/EzerTheKing/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EzerTheKing/EzerTheKing/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EzerTheKing/EzerTheKing/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
