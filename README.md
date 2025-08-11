@@ -1,8 +1,10 @@
+<br clear="both">
+
 <img align="right" height="200" src="https://gifcop.com/wp-content/uploads/blue-archive-peace-out.gif"  />
 
 ###
 
-**Hello World Bro.!**
+<h3 align="left">Hello World Bro!!</h3>
 
 ###
 
